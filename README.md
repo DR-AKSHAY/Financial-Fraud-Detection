@@ -131,6 +131,7 @@ Follow these steps to run the application on your computer.
 
 ```bash
 git clone (https://github.com/DR-AKSHAY/Financial-Fraud-Detection.git)
+```
 
 ### Step 2: Open the project folder
 
